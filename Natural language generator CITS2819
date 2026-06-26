@@ -1,0 +1,18 @@
+natural language generator CITS2819
+
+
+# Natural Language Generator
+
+A simple Python project that generates text based on user input using basic NLP concepts.
+
+## Features
+- Text generation
+- User-friendly interface
+- Easy to use
+
+## Technology
+- Python
+
+## Run
+```bash
+python main.py
